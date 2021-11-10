@@ -1,0 +1,46 @@
+---
+title: "Prueba"
+author: "Raquel"
+date: "10/11/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+Wildfires and post-fire burnt-wood management treatments disturb the soils of forest ecosystems. However, little
+attention has been paid to the impact of these compound disturbances from a medium- to long-term perspective.
+In this study, we compared the decadal effect on soil carbon and nutrient concentrations (i.e. C, N, K and P) of
+two post-fire burnt wood treatments that differed in management intensity. We established two blocks differing
+in elevation, each including three replicates (ca. 3 ha) of each of two treatments: salvage logging (SL), a treatment
+that emulated a conventional salvage logging (although logs of dead wood were stacked within-plots in
+piles covering < 5% of the area), and a treatment where 90% of the burnt trees were manually cut but all biomass
+was haphazardly spread over the ground (partial cut, PC). Soil carbon and nutrient concentrations were
+compared across treatments, across the bare soil of both treatments, and in areas of bare soil versus areas below
+burnt trunks within the PC treatment. All analyzed soil chemical properties differed between elevation blocks.
+Moreover, C, K and P concentrations were higher in the PC treatment than in the SL treatment, although effect
+sizes were small. Similarly, C and P were higher in the bare soil of the PC treatment than in the bare soil of the SL
+treatment. However, the soil away from logs and the soil underneath logs did not show significant differences for
+C, N, K and P concentrations within the PC treatment, suggesting that scattered dead wood originated a higher
+log cover that physically protects the soil and enhances nutrient availability. Our findings indicate that, a decade
+after wildfire and treatment implementation, salvage logging produced lower soil carbon and nutrient concentrations
+than another management treatment which left all wood scattered over the ground. Studying the longlasting
+impacts of post-fire management strategies is essential to propose suitable management approaches that
+contribute to recover soil nutrient availability.
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
